@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Dataset/train
+val: /content/drive/MyDrive/Dataset/val
+nc: 1
+names: ['fire']
